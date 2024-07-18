@@ -1,2 +1,2 @@
 # Eyeris-tracking
-Service which let you use head and eye movements instead of a computer mouse
+Service which let you use head and eye movements instead of a computer mouse. Any improvements are welcome
